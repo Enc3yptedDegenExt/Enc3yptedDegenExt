@@ -24,6 +24,5 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   
 
-[![Vrushabh's github stats](https://github-readme-stats.vercel.app/api?username=gurusakharwade&theme=dark&show_icons=true)](https://github.com/gurusakharwade)
 
 
