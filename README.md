@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **gurusakharwade/gurusakharwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA, Java,ReactJs, Ethical Hacking, Cyber Security
 - 💬 Ask me about crypto currencies and technical analysis
 - 📫 How to reach me: gurusakharwade@gmail.com
--->
