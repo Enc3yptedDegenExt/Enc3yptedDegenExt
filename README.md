@@ -1,5 +1,3 @@
-<h3>Jai Shree Ram</h3>
-
 <h1>I'm Vrushabh Sakharwade</h1>
 
 - 🔭 I’m currently working on Front End Web Development, Crypto Trading and Analysis
