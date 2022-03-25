@@ -1,4 +1,4 @@
-<h1>I'm Vrushabh Sakharwade</h1>
+<h3>I'm Vrushabh Sakharwade</h3>
 
 - 🔭 I’m currently working on Front End Web Development, Crypto Trading and Analysis
 - 
@@ -7,6 +7,22 @@
 - 💬 Ask me about crypto currencies and technical analysis
 - 
 - 📫 How to reach me: gurusakharwade@gmail.com
+- 
+-  I daily use:
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-<h2> Connect with me </h2>
-links i will add later
+ -  ⚙️ I also use and work:
+ ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+ ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+ 
+- 🌱 Learning all about:
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  
+
+[![Vrushabh's github stats](https://github-readme-stats.vercel.app/api?username=gurusakharwade&theme=dark&show_icons=true)](https://github.com/gurusakharwade)
+
+
