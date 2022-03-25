@@ -1,9 +1,9 @@
 <h3>I'm Vrushabh Sakharwade</h3>
-- love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Space 🔭 and I am a bit 😄 mad 😄 when I code.
+- love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Space 🔭 and I am a bit mad when I code.
 
 - 🔭 I’m currently working on Front End Web Development, Crypto Trading and Analysis
 - 
-- 🌱 I’m currently learning DSA, Java, ReactJs, Ethical Hacking, Cyber Security
+- 🌱 I’m currently learning DSA, ReactJs, Ethical Hacking, Cyber Security
 - 
 - 💬 Ask me about crypto currencies and technical analysis
 - 
