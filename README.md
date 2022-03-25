@@ -1,9 +1,6 @@
-Jai Shree Ram
+<h3>Jai Shree Ram</h3>
 
 <h1>I'm Vrushabh Sakharwade</h1>
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front End Web Development, Crypto Trading and Analysis
 - 
@@ -12,3 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about crypto currencies and technical analysis
 - 
 - 📫 How to reach me: gurusakharwade@gmail.com
+
+<h2> Connect with me </h2>
+links i will add later
