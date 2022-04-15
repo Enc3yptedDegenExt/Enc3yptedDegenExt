@@ -13,8 +13,7 @@
 
  -  ⚙️ I also use and work:
  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+
  
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
