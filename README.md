@@ -1,4 +1,4 @@
-Hi 👋 My name is Vrushabh Sakharwade
+Hi 👋 I Vrushabh Sakharwade
 ====================================
 
 Front End Web Developer
@@ -8,7 +8,7 @@ love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spac
 
 *   🌍  I'm based in India 🇮🇳
 *   ✉️  You can contact me at [gurusakharwade@gmail.com](mailto:gurusakharwade@gmail.com)
-*   🧠  I'm learning DSA, ReactJs, Ethical Hacking, Cyber Security
+*   🧠  I'm learning DSA
 *   ⚡  I'm not your friend
 
 ### Skills
