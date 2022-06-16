@@ -1,9 +1,6 @@
 Hi 👋 I Vrushabh Sakharwade
 ====================================
 
-Front End Web Developer
------------------------
-
 love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Space 🔭 and I am a bit mad when I code.
 
 *   🌍  I'm based in India 🇮🇳
