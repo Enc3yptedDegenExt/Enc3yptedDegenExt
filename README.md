@@ -3,9 +3,9 @@ Hi 👋 I Vrushabh Sakharwade
 
 love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Space 🔭 and I am a bit mad when I code.
 
-*   🌍  I'm based in India 🇮🇳
+*   🌍  I'm based in Pune,India 🇮🇳
 *   ✉️  You can contact me at [gurusakharwade@gmail.com](mailto:gurusakharwade@gmail.com)
-*   🧠  I'm learning DSA
+*   🧠  I'm learning Life
 *   ⚡  I'm not your friend
 
 ### Skills
