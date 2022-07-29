@@ -5,10 +5,9 @@ love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spac
 
 *   🌍  I'm based in Pune,India 🇮🇳
 *   ✉️  You can contact me at [gurusakharwade@gmail.com](mailto:gurusakharwade@gmail.com)
-*   🧠  I'm learning Life
 *   ⚡  I'm not your friend
 
-### Skills
+### Skills in Making
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
