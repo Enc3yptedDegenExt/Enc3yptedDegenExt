@@ -5,7 +5,7 @@ love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spac
 
 *   🌍  I'm based in Pune,India 🇮🇳
 *   ✉️  You can contact me at [gurusakharwade@gmail.com](mailto:gurusakharwade@gmail.com)
-*   ⚡  I'm not your friend
+*   ⚡  Currently learning Solidity and Ethereum
                     
 
 Socials
