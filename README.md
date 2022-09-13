@@ -1,11 +1,11 @@
-Hi 👋 I Vrushabh Sakharwade
+Hi 👋 I'm Vrushabh 
 ====================================
 
 love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Space 🔭 and I am a bit mad when I code.
 
 *   🌍  I'm based in Pune,India 🇮🇳
 *   ✉️  You can contact me at [gurusakharwade@gmail.com](mailto:gurusakharwade@gmail.com)
-*   ⚡  Currently learning Solidity and Ethereum
+*   ⚡  Currently learning Solidity and EVM
                     
 
 Socials
