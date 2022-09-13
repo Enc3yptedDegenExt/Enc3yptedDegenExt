@@ -1,4 +1,4 @@
-Hi 👋 I'm Vrushabh 
+Hi 👋 I'm Vrushabh (Guru)
 ====================================
 
 love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Space 🔭 and I am a bit mad when I code.
