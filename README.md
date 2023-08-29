@@ -13,7 +13,7 @@
 <br clear="both">
 
 <p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Rust<br>🎲 Fun fact: I am noob graphic designer</p>
-<p align="center"> You can contact me at gurusakharwade@gmail.com </p>
+
 ###
 
 <h2 align="left">I code, Design and connect with</h2>
@@ -88,6 +88,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/gurusakharwade/gurusakharwade/output/snake.svg" alt="Snake animation" />
 
