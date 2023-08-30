@@ -64,10 +64,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="500" src="https://techcrunch.com/wp-content/uploads/2019/03/final-gif.gif?w=1390&crop=1"  />
-</div>
-
 ###
 
 <div align="left">
