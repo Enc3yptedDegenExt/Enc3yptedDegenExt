@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Rust<br>🎲 Fun fact: I am noob graphic designer</p>
+<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Rust<br> Front-End Developer/penetration tester</p>
 
 ###
 
