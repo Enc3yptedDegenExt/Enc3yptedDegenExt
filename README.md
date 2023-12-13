@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushabh</h1>
-<h3 align="center">Front-End Developer, Penetration Tester, Crypto Analyst and Trader</h3>
+<h3 align="center">Software Developer, Penetration Tester</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusakharwade&label=Profile%20views&color=0e75b6&style=flat" alt="gurusakharwade" /> </p>
