@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vrushabh</h1>
 <h3 align="center">Software Developer, Penetration Tester</h3>
 
 
