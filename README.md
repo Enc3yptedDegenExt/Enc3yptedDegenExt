@@ -1,19 +1,28 @@
-<h3 align="center">Software Developer, Penetration Tester</h3>
+
+## Vrushabh Sakharwade (Pentester)
+
+## 🚀 About Me
+I am Vrushabh, also known as Enc3yptedDegenExt. I have a keen interest in cybersecurity, coding, and smart contract hacking and am passionate about exploring and enhancing my skills in these areas.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Enc3yptedDegenExt&label=Profile%20views&color=0e75b6&style=flat" alt="Enc3yptedDegenExt" /> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusakharwade&label=Profile%20views&color=0e75b6&style=flat" alt="gurusakharwade" /> </p>
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushabh-sakharwade/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Sakharwade_Guru)
+
+## 🛠 Skills
 
 
-- 📫 How to reach me **contactvrushabh@gmail.com**
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sakharwade_guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakharwade_guru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vrushabh-sakharwade-146a55172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrushabh-sakharwade-146a55172" height="30" width="40" /></a>
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurusakharwade&show_icons=true&locale=en&layout=compact" alt="gurusakharwade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusakharwade&show_icons=true&locale=en" alt="gurusakharwade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurusakharwade&" alt="gurusakharwade" /></p>
