@@ -1,5 +1,5 @@
 
-## Vrushabh Sakharwade (Pentester)
+## Vrushabh (Pentester/ White hat Hacker)
 
 ## 🚀 About Me
 I am Vrushabh, also known as Enc3yptedDegenExt. I have a keen interest in cybersecurity, coding, and smart contract hacking and am passionate about exploring and enhancing my skills in these areas.
