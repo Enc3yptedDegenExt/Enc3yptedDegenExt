@@ -2,7 +2,7 @@
 ## Vrushabh (Pentester/ White hat Hacker)
 
 ## 🚀 About Me
-I am Vrushabh, also known as Enc3yptedDegenExt. I have a keen interest in cybersecurity, coding, and smart contract hacking and am passionate about exploring and enhancing my skills in these areas.
+I am Vrushabh. I have a keen interest in cybersecurity, coding, and smart contract hacking and am passionate about exploring and enhancing my skills in these areas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Enc3yptedDegenExt&label=Profile%20views&color=0e75b6&style=flat" alt="Enc3yptedDegenExt" /> </p>
 
@@ -13,7 +13,7 @@ I am Vrushabh, also known as Enc3yptedDegenExt. I have a keen interest in cybers
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushabh-sakharwade/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Sakharwade_Guru)
+
 
 
 ## 🛠 Skills
