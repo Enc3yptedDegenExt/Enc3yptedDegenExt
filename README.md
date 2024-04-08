@@ -10,12 +10,6 @@ I am Vrushabh. I have a keen interest in cybersecurity, coding, and smart contra
 <img src="https://tryhackme-badges.s3.amazonaws.com/Vrushabh.S.png" alt="TryHackMe">
 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushabh-sakharwade/)
-
-
-
 ## 🛠 Skills
 
 
