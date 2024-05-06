@@ -1,12 +1,11 @@
 
 
 ## 🚀 About Me
-I am Guru. I am interested in cybersecurity, coding, and smart contract hacking and am passionate about exploring and enhancing my skills in these areas.
+ I am interested in cybersecurity, coding, and smart contract hacking and am passionate about exploring and enhancing my skills in these areas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Enc3yptedDegenExt&label=Profile%20views&color=0e75b6&style=flat" alt="Enc3yptedDegenExt" /> </p>
 
-## TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/Vrushabh.S.png" alt="TryHackMe">
+
 
 
 ## 🛠 Skills
