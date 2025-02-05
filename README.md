@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-I'm a security researcher focusing on Web3 security. I am deeply passionate about cyber security and software development, with a particular focus on enhancing the security of digital platforms. My expertise includes bug bounty hunting, smart contract auditing, and ethical hacking, where I excel at identifying and mitigating security risks. My approach to problem-solving is meticulous, and I am committed to continuous learning and writing my own scripts. I am dedicated to promoting ethical hacking practices and ensuring the integrity and safety of digital platforms. 
+I'm a security researcher focusing on Web2 & Web3 security. I am deeply passionate about cyber security, with a particular focus on enhancing the security of digital platforms. My expertise includes bug bounty hunting, smart contract auditing, and ethical hacking, where I excel at identifying and mitigating security risks. My approach to problem-solving is meticulous, and I am committed to continuous learning and writing my own scripts. I am dedicated to promoting ethical hacking practices and ensuring the integrity and safety of digital platforms. 
 
 My work is characterised by a proactive stance towards vulnerability discovery and a passion for leveraging technology to protect against potential threats.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Enc3yptedDegenExt&label=Profile%20views&color=0e75b6&style=flat" alt="Enc3yptedDegenExt" /> </p>
