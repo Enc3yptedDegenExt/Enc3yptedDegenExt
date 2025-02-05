@@ -11,7 +11,7 @@ My work is characterised by a proactive stance towards vulnerability discovery a
 
 |contest             |Ranking             |Platform             |
 |--------------------|--------------------|--------------------|
-|[Immunefi Arbitration](https://immunefi.com/audit-competition/immunefiarbitration-boost/leaderboard/#top)|#9  |Immunefi|
+|[Immunefi Arbitration]|#9  |Immunefi|
 
 
 ## 🛠 Skills
